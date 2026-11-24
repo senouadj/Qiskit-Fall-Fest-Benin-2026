@@ -1,4 +1,4 @@
-# Projet 1 — Optimisation quantique de l'allocation des cultures au Bénin
+# Projet 1 - Optimisation quantique de l'allocation des cultures au Bénin
 
 **Qiskit Fall Fest 2026 • IndabaX Benin • Sèmè City**
 
